@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main(void){
-    printf("Hello World!");
+    printf("If at first you don\'t succed, try, try, try again!");
     return 0;
 }
