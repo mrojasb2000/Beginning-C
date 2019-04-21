@@ -1,4 +1,4 @@
-/* Program 1.2 Your Very First C Program - Displaying Hello World */
+/* Program 1.2 Your Second C Program */
 #include <stdio.h>
 
 int main(void){
